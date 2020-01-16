@@ -1,2 +1,2 @@
 # InflHospICT
-Influenza among admitted and ITC
+Influenza among admitted and ICT
